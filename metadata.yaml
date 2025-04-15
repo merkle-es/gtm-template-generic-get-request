@@ -1,5 +1,5 @@
 homepage: "https://www.merkle.com/es.html"
-#documentation: "https://www.example.com/documentation"
+documentation: "https://github.com/merkle-es/gtm-template-generic-get-request"
 versions:
-  - sha: .
-    changeNotes: .
+  - sha: 19f23d8ba86ad394f0cd66073c46e6ed8475a894
+    changeNotes: first commit
