@@ -1,0 +1,5 @@
+homepage: "https://www.merkle.com/es.html"
+#documentation: "https://www.example.com/documentation"
+versions:
+  - sha: .
+    changeNotes: .
